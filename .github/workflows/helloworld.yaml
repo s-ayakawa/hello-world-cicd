@@ -6,5 +6,5 @@ jobs:
   sample:
     name: Hello World Job
     runs-on: ubuntu-latest
-    step:
+    steps:
       - run: echo "Hello World !"
